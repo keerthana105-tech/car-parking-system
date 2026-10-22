@@ -1,0 +1,15 @@
+{
+  "name": "parking-system-tests",
+  "version": "1.0.0",
+  "description": "Cypress automated tests for Parking System",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run",
+    "test": "cypress run"
+  },
+  "devDependencies": {
+    "cypress": "^13.6.0"
+  },
+  "author": "Student",
+  "license": "MIT"
+}
